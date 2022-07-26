@@ -1,0 +1,31 @@
+project:
+  type: website
+  
+execute:
+  freeze: auto
+
+website:
+  title: "Shiny tools for management rules -- SMM 2022"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Slides"
+        menu:
+          - Overview_of_workshop.qmd
+          - text: "2a. Apps in action-NERW"
+            href: Apps_in_action-NERW.pdf
+          - Apps_in_action-WhaleMap.qmd
+      - text: "Recordings"
+        menu: 
+          - text: "1. Overview of workshop"
+          - text: "2. Apps in action-NERW"
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+
+
