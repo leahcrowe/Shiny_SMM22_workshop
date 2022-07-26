@@ -53,6 +53,6 @@ slide-number: true
 
 ## Discussion
 
-What repeatable processes do you do as part of your work?
+-   What repeatable processes do you do as part of your work?
 
-Do you have time-sensitive materials to distribute to stakeholders?
+-   Do you have time-sensitive materials to distribute to stakeholders?
