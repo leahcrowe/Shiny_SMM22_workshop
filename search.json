@@ -1,16 +1,51 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "Apps_in_action-WhaleMap.html#quarto",
+    "href": "Apps_in_action-WhaleMap.html#quarto",
+    "title": "2b. Apps in action - WhaleMap",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see https://quarto.org/docs/presentations/."
+  },
+  {
+    "objectID": "Apps_in_action-WhaleMap.html#bullets",
+    "href": "Apps_in_action-WhaleMap.html#bullets",
+    "title": "2b. Apps in action - WhaleMap",
+    "section": "Bullets",
+    "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Shiny_SMM22_workshop",
+    "title": "Shiny tools for management rules: Using R and ‘shiny’ to streamline marine mammal conservation",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "For details on the workshop schedule, please check out the wiki"
+  },
+  {
+    "objectID": "Overview_of_workshop.html#welcome",
+    "href": "Overview_of_workshop.html#welcome",
+    "title": "1. Overview of the workshop",
+    "section": "Welcome!",
+    "text": "Welcome!\n\n\nWe are Leah & Hansen\nToday we are going to learn, tomorrow we are going to build\nMorning sessions 08:30–12:00 with a coffee break 10:00–10:30\nLunch 12:30–13:30\nAfternoon sessions 13:30–17:30 with a coffee break 15:00–15:30\nThe repository (aka ‘repo’) is our workshop landing page: https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22"
+  },
+  {
+    "objectID": "Overview_of_workshop.html#you-all-the-shiny-happy-people",
+    "href": "Overview_of_workshop.html#you-all-the-shiny-happy-people",
+    "title": "1. Overview of the workshop",
+    "section": "You all, the Shiny, happy people",
+    "text": "You all, the Shiny, happy people\n\n\nOnline and virtual from all over\nSummary of survey"
+  },
+  {
+    "objectID": "Overview_of_workshop.html#github-and-our-workshop-repo",
+    "href": "Overview_of_workshop.html#github-and-our-workshop-repo",
+    "title": "1. Overview of the workshop",
+    "section": "Github and our workshop repo",
+    "text": "Github and our workshop repo\n\n\nEveryone should have a GitHub account by now\nBut what even is GitHub?\n\nTracks changes, eases collaboration with others and your future self, organizes your work\n\nhttps://docs.github.com/en/get-started/quickstart/hello-world\nhttp://ohi-science.org/data-science-training/github.html#setup-git-github\n\n\nTour of our workshop repository"
+  },
+  {
+    "objectID": "Overview_of_workshop.html#discussion",
+    "href": "Overview_of_workshop.html#discussion",
+    "title": "1. Overview of the workshop",
+    "section": "Discussion",
+    "text": "Discussion\nWhat repeatable processes do you do as part of your work?\nDo you have time-sensitive materials to distribute to stakeholders?"
   }
 ]
