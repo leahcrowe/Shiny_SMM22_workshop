@@ -14,7 +14,7 @@ slide-number: true
 ::: incremental
 -   We are Leah & Hansen
 
--   [Today](https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22/wiki/Day-1:-Learn) we are going to learn, [tomorrow](https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22/wiki/Day-2:-Build) we are going to build
+-   [Today](https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22/wiki/Day-1:-Learn) we learn, [tomorrow](https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22/wiki/Day-2:-Build) we build
 
 -   Morning sessions 08:30--12:00 with a coffee break 10:00--10:30
 
@@ -22,7 +22,9 @@ slide-number: true
 
 -   Afternoon sessions 13:30--17:30 with a coffee break 15:00--15:30
 
--   The repository (aka 'repo') is our workshop landing page: <https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22>
+-   The repository (aka 'repo') is our workshop landing page:
+
+    <https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22>
 :::
 
 ## You all, the Shiny, happy people
