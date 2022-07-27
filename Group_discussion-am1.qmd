@@ -1,0 +1,11 @@
+---
+title: "3. Group discussion - Day 1 morning"
+format: revealjs
+editor: visual
+---
+
+## Discussion
+
+-   What tools are people thinking they will build?
+
+-   What features are people hoping to incorporate?
