@@ -12,10 +12,26 @@ website:
         text: Home
       - text: "Slides"
         menu:
-          - Overview_of_workshop.qmd
-          - text: "2a. Apps in action-NERW"
+        #day 1am
+          - Overview_of_workshop.qmd #1
+          - text: "2a. Apps in action-NERW" #2a
             href: Apps_in_action-NERW.pdf
-          - Apps_in_action-WhaleMap.qmd
+          #- Apps_in_action-WhaleMap.qmd #2b
+          - Apps_in_action-Simple_app.qmd #2c
+          - Group_discussion-am1.qmd #3
+        #day 1pm
+          #- Intro to Shiny #4
+          - Shiny_tours-Simple_app.qmd #5a
+          - Shiny_tours-NERW.qmd #5b
+          #- Shiny_tours-WhaleMap #5c
+          - Group_discussion-pm1.qmd #6
+        #day 2am
+          - Overview_of_day.qmd
+        #day 2pm
+          - Documenting.qmd
+          - Deployment.qmd
+          - Group_discussion-pm2.qmd
+        
       - text: "Recordings"
         menu: 
           - text: "1. Overview of workshop"
