@@ -14,11 +14,53 @@
     "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
   },
   {
+    "objectID": "Apps_in_action-Simple_app.html#features-to-look-out-for",
+    "href": "Apps_in_action-Simple_app.html#features-to-look-out-for",
+    "title": "2c. Apps in action - Simple app",
+    "section": "Features to look out for",
+    "text": "Features to look out for\n\nDashboard layout\nRadio buttons\nText input\nAction buttons (enable/disable)\nTabs\nRHandsontable\nLeaflet Map\nDownload PDF"
+  },
+  {
+    "objectID": "Apps_in_action-Simple_app.html#run-the-app",
+    "href": "Apps_in_action-Simple_app.html#run-the-app",
+    "title": "2c. Apps in action - Simple app",
+    "section": "Run the app",
+    "text": "Run the app\nshiny::runGitHub(“READ-PSB-LWT-Shiny_SMM22”, username = “NEFSC”, ref = “master”)"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shiny tools for management rules: Using R and ‘shiny’ to streamline marine mammal conservation",
     "section": "",
-    "text": "For details on the workshop schedule, please check out the wiki"
+    "text": "For details on the workshop schedule, please check out the wiki located in our workshop repo"
+  },
+  {
+    "objectID": "Shiny_tours-Simple_app.html#the-code-structure",
+    "href": "Shiny_tours-Simple_app.html#the-code-structure",
+    "title": "5a. Shiny tours - Simple app",
+    "section": "The code structure",
+    "text": "The code structure\nApp.R: dashboard\n\nglobal_libraries.R\nexample_app.R: individual app run file\n\nexample_ui.R: user interface\nexample_server.R: nuts and bolts\n\nexample_report.Rmd: rmarkdown file rendered from the server file"
+  },
+  {
+    "objectID": "Shiny_tours-Simple_app.html#the-code",
+    "href": "Shiny_tours-Simple_app.html#the-code",
+    "title": "5a. Shiny tours - Simple app",
+    "section": "The code",
+    "text": "The code\nhttps://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22"
+  },
+  {
+    "objectID": "Group_discussion-pm1.html#discussion",
+    "href": "Group_discussion-pm1.html#discussion",
+    "title": "6. Group discussion - Day 1 afternoon",
+    "section": "Discussion",
+    "text": "Discussion\n\nHave any of your goals shifted from what you thought you wanted to tackle earlier this morning?\nAny new ideas on features you are hoping to incorporate?\nAny features we didn’t cover today that you were hoping to learn more about?"
+  },
+  {
+    "objectID": "Group_discussion-pm1.html#homework",
+    "href": "Group_discussion-pm1.html#homework",
+    "title": "6. Group discussion - Day 1 afternoon",
+    "section": "Homework",
+    "text": "Homework\n\nDon’t forget to bring your data (or you can use ours)\nSee you tomorrow at 0830!"
   },
   {
     "objectID": "Overview_of_workshop.html#welcome",
@@ -46,6 +88,13 @@
     "href": "Overview_of_workshop.html#discussion",
     "title": "1. Overview of the workshop",
     "section": "Discussion",
-    "text": "Discussion\n\nWhat repeatable processes do you do as part of your work?\nDo you have time-sensitive materials to distribute to stakeholders?"
+    "text": "Discussion\n\nWhat repeatable processes occur in your work?\nDo you have time-sensitive materials to distribute to stakeholders?"
+  },
+  {
+    "objectID": "Group_discussion-am1.html#discussion",
+    "href": "Group_discussion-am1.html#discussion",
+    "title": "3. Group discussion - Day 1 morning",
+    "section": "Discussion",
+    "text": "Discussion\n\nWhat tools are people thinking they will build?\nWhat features are people hoping to incorporate?"
   }
 ]

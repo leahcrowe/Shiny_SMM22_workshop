@@ -9,7 +9,7 @@
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.0.37">
 
-  <title>Shiny tools for management rules – SMM 2022 - 1. Overview of the workshop</title>
+  <title>Shiny tools for management rules – SMM 2022 - 5a. Shiny tours - Simple app</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -318,55 +318,27 @@
     <div class="slides">
 
 <section id="title-slide" class="center">
-  <h1 class="title">1. Overview of the workshop</h1>
+  <h1 class="title">5a. Shiny tours - Simple app</h1>
 </section>
 
-<section id="welcome" class="slide level2">
-<h2>Welcome!</h2>
-<div>
+<section id="the-code-structure" class="slide level2">
+<h2>The code structure</h2>
+<p><u>App.R</u>: dashboard</p>
 <ul>
-<li class="fragment"><p>We are Leah &amp; Hansen</p></li>
-<li class="fragment"><p><a href="https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22/wiki/Day-1:-Learn">Today</a> we learn, <a href="https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22/wiki/Day-2:-Build">tomorrow</a> we build</p></li>
-<li class="fragment"><p>Morning sessions 08:30–12:00 with a coffee break 10:00–10:30</p></li>
-<li class="fragment"><p>Lunch 12:30–13:30</p></li>
-<li class="fragment"><p>Afternoon sessions 13:30–17:30 with a coffee break 15:00–15:30</p></li>
-<li class="fragment"><p>The repository (aka ‘repo’) is our workshop landing page:</p>
-<p><a href="https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22" class="uri">https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22</a></p></li>
-</ul>
-</div>
-</section>
-<section id="you-all-the-shiny-happy-people" class="slide level2">
-<h2>You all, the Shiny, happy people</h2>
-<div>
+<li><p><u>global_libraries.R</u></p></li>
+<li><p><u>example_app.R</u>: individual app run file</p>
 <ul>
-<li class="fragment"><p>Online and virtual from all over</p></li>
-<li class="fragment"><p>Summary of survey</p></li>
-</ul>
-</div>
-</section>
-<section id="github-and-our-workshop-repo" class="slide level2">
-<h2>Github and our workshop repo</h2>
-<div>
+<li><p><u>example_ui.R</u>: user interface</p></li>
+<li><p><u>example_server.R</u>: nuts and bolts</p>
 <ul>
-<li class="fragment"><p>Everyone should have a GitHub account by now</p></li>
-<li class="fragment"><p>But what even is GitHub?</p>
-<ul>
-<li class="fragment"><p>Tracks changes, eases collaboration with others and your future self, organizes your work</p>
-<ul>
-<li class="fragment"><p><a href="https://docs.github.com/en/get-started/quickstart/hello-world" class="uri">https://docs.github.com/en/get-started/quickstart/hello-world</a></p></li>
-<li class="fragment"><p><a href="http://ohi-science.org/data-science-training/github.html#setup-git-github" class="uri">http://ohi-science.org/data-science-training/github.html#setup-git-github</a></p></li>
+<li><u>example_report.Rmd</u>: rmarkdown file rendered from the server file</li>
 </ul></li>
 </ul></li>
-<li class="fragment"><p><a href="https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22">Tour of our workshop repository</a></p></li>
 </ul>
-</div>
 </section>
-<section id="discussion" class="slide level2">
-<h2>Discussion</h2>
-<ul>
-<li><p>What repeatable processes occur in your work?</p></li>
-<li><p>Do you have time-sensitive materials to distribute to stakeholders?</p></li>
-</ul>
+<section id="the-code" class="slide level2">
+<h2>The code</h2>
+<p>https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22</p>
 
 <div class="footer footer-default">
 
@@ -424,7 +396,7 @@
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: 'c/t',
+        slideNumber: false,
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
