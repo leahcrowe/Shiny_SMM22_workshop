@@ -5,6 +5,8 @@ author: "Leah Crowe & Hansen Johnson"
 
 On this website you will find slides and video materials associated with this Society for Marine Mammalogy Conference Workshop presented 30 & 31 July, 2022.
 
-For details on the workshop schedule, please check out the [wiki](https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22/wiki)
+For details on the workshop schedule, please check out the [wiki](https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22/wiki) located in our [workshop repo](https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22)
+
+
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLF1SJy2msqA5YTDzxS4HM2hsSnvWwj8eJ0A&usqp=CAU)
