@@ -36,6 +36,6 @@ src files
 
 [GitHub](https://github.com/hansenjohnson/WhaleMap)
 
-    ::: footer
-    [Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
-    :::
+::: footer
+[Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+:::
