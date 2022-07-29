@@ -7,6 +7,7 @@ editor: visual
 execute:
   freeze: auto
 slide-number: true
+logo: SMM2022-Logo.png
 ---
 
 ## Welcome!
@@ -27,12 +28,92 @@ slide-number: true
     <https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22>
 :::
 
-## You all, the Shiny, happy people
+## Day 1 Schedule
+
+-   ::: {style="font-size: 0.8em"}
+    -   0830-0930: Overview and Welcome, end with discussion
+
+    -   0930-1000: Apps in Action - NERW
+
+    -   ::: {style="color: blue"}
+        1000-1030: Coffee
+        :::
+
+    -   1030-1100: Apps in Action - NERW (continued)
+
+    -   1100-1200: Apps in Action - WhaleMap
+
+    -   ::: {style="color: blue"}
+        1200-1330: Lunch
+        :::
+
+    -   1330-1400: Intro to Shiny
+
+    -   1400-1500: Shiny tour - NERW
+
+    -   ::: {style="color: blue"}
+        1500-1530: Coffee
+        :::
+
+    -   1530-1630: Shiny tour - WhaleMap
+
+    -   1630-1730: Discussion and Q&A
+    :::
+
+## Summary of pre-workshop survey
 
 ::: incremental
--   Online and virtual from all over
+-   At least 17 folks online from the west coast of the US to central Europe
 
--   Summary of survey
+-   A few of us in Florida
+:::
+
+## Summary of pre-workshop survey
+
+![](figures/survey1.png)
+
+## Summary of pre-workshop survey
+
+![](figures/survey2.png)
+
+## Summary of pre-workshop survey
+
+![](figures/survey3.png)
+
+## Summary of pre-workshop survey
+
+![](figures/survey4.png)
+
+## We don't have computer science training...
+
+#### But we have figured it out with the help of these resources:
+
+::: incremental
+-   [RStudio resources](https://shiny.rstudio.com/)
+
+-   GitHub
+
+-   Stackoverflow
+
+-   Google
+
+-   Workshops and webinars (e.g., [Data Carpentry](https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html), [Openscapes](https://www.openscapes.org/), etc.)
+
+-   Other people!
+
+    -   R user group at NEFSC, grad student group at Dal, Twitter (Tidy Tuesdays, R ladies, etc.)
+:::
+
+## Foundation of all data analysis is good data management
+
+::: incremental
+-   Consistent data types and column names
+
+    -   Date formatting
+
+    -   QA/QC of sources of human error
+
+-   Write code to encompass universal processes
 :::
 
 ## Github and our workshop repo
@@ -56,3 +137,7 @@ slide-number: true
 -   What repeatable processes occur in your work?
 
 -   Do you have time-sensitive materials to distribute to stakeholders?
+
+    ::: footer
+    [Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+    :::
