@@ -9,7 +9,7 @@
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.0.37">
 
-  <title>Shiny tools for management rules – SMM 2022 - 1. Overview of the workshop</title>
+  <title>Shiny tools for management rules – SMM 2022 - 3. Group discussion - Day 1 morning</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -318,133 +318,23 @@
     <div class="slides">
 
 <section id="title-slide" class="center">
-  <h1 class="title">1. Overview of the workshop</h1>
+  <h1 class="title">3. Group discussion - Day 1 morning</h1>
 </section>
 
-<section id="welcome" class="slide level2">
-<h2>Welcome!</h2>
-<div>
-<ul>
-<li class="fragment"><p>We are Leah &amp; Hansen</p></li>
-<li class="fragment"><p><a href="https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22/wiki/Day-1:-Learn">Today</a> we learn, <a href="https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22/wiki/Day-2:-Build">tomorrow</a> we build</p></li>
-<li class="fragment"><p>Morning sessions 08:30–12:00 with a coffee break 10:00–10:30</p></li>
-<li class="fragment"><p>Lunch 12:30–13:30</p></li>
-<li class="fragment"><p>Afternoon sessions 13:30–17:30 with a coffee break 15:00–15:30</p></li>
-<li class="fragment"><p>The repository (aka ‘repo’) is our workshop landing page:</p>
-<p><a href="https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22" class="uri">https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22</a></p></li>
-</ul>
-</div>
-</section>
-<section id="day-1-schedule" class="slide level2">
-<h2>Day 1 Schedule</h2>
-<ul>
-<li><div style="font-size: 0.8em">
-<ul>
-<li><p>0830-0930: Overview and Welcome, end with discussion</p></li>
-<li><p>0930-1000: Apps in Action - NERW</p></li>
-<li><div style="color: blue">
-<p>1000-1030: Coffee</p>
-</div></li>
-<li><p>1030-1100: Apps in Action - NERW (continued)</p></li>
-<li><p>1100-1200: Apps in Action - WhaleMap</p></li>
-<li><div style="color: blue">
-<p>1200-1330: Lunch</p>
-</div></li>
-<li><p>1330-1400: Intro to Shiny</p></li>
-<li><p>1400-1500: Shiny tour - NERW</p></li>
-<li><div style="color: blue">
-<p>1500-1530: Coffee</p>
-</div></li>
-<li><p>1530-1630: Shiny tour - WhaleMap</p></li>
-<li><p>1630-1730: Discussion and Q&amp;A</p></li>
-</ul>
-</div></li>
-</ul>
-</section>
-<section id="summary-of-pre-workshop-survey" class="slide level2">
-<h2>Summary of pre-workshop survey</h2>
-<div>
-<ul>
-<li class="fragment"><p>At least 17 folks online from the west coast of the US to central Europe</p></li>
-<li class="fragment"><p>A few of us in Florida</p></li>
-</ul>
-</div>
-</section>
-<section id="summary-of-pre-workshop-survey-1" class="slide level2">
-<h2>Summary of pre-workshop survey</h2>
-
-<img data-src="figures/survey1.png" class="r-stretch"></section>
-<section id="summary-of-pre-workshop-survey-2" class="slide level2">
-<h2>Summary of pre-workshop survey</h2>
-
-<img data-src="figures/survey2.png" class="r-stretch"></section>
-<section id="summary-of-pre-workshop-survey-3" class="slide level2">
-<h2>Summary of pre-workshop survey</h2>
-
-<img data-src="figures/survey3.png" class="r-stretch"></section>
-<section id="summary-of-pre-workshop-survey-4" class="slide level2">
-<h2>Summary of pre-workshop survey</h2>
-
-<img data-src="figures/survey4.png" class="r-stretch"></section>
-<section id="we-dont-have-computer-science-training" class="slide level2">
-<h2>We don’t have computer science training…</h2>
-<h4 id="but-we-have-figured-it-out-with-the-help-of-these-resources">But we have figured it out with the help of these resources:</h4>
-<div>
-<ul>
-<li class="fragment"><p><a href="https://shiny.rstudio.com/">RStudio resources</a></p></li>
-<li class="fragment"><p>GitHub</p></li>
-<li class="fragment"><p>Stackoverflow</p></li>
-<li class="fragment"><p>Google</p></li>
-<li class="fragment"><p>Workshops and webinars (e.g., <a href="https://datacarpentry.org/R-ecology-lesson/01-intro-to-r.html">Data Carpentry</a>, <a href="https://www.openscapes.org/">Openscapes</a>, etc.)</p></li>
-<li class="fragment"><p>Other people!</p>
-<ul>
-<li class="fragment">R user group at NEFSC, grad student group at Dal, Twitter (Tidy Tuesdays, R ladies, etc.)</li>
-</ul></li>
-</ul>
-</div>
-</section>
-<section id="foundation-of-all-data-analysis-is-good-data-management" class="slide level2">
-<h2>Foundation of all data analysis is good data management</h2>
-<div>
-<ul>
-<li class="fragment"><p>Consistent data types and column names</p>
-<ul>
-<li class="fragment"><p>Date formatting</p></li>
-<li class="fragment"><p>QA/QC of sources of human error</p></li>
-</ul></li>
-<li class="fragment"><p>Write code to encompass universal processes</p></li>
-</ul>
-</div>
-</section>
-<section id="github-and-our-workshop-repo" class="slide level2">
-<h2>Github and our workshop repo</h2>
-<div>
-<ul>
-<li class="fragment"><p>Everyone should have a GitHub account by now</p></li>
-<li class="fragment"><p>But what even is GitHub?</p>
-<ul>
-<li class="fragment"><p>Tracks changes, eases collaboration with others and your future self, organizes your work</p>
-<ul>
-<li class="fragment"><p><a href="https://docs.github.com/en/get-started/quickstart/hello-world" class="uri">https://docs.github.com/en/get-started/quickstart/hello-world</a></p></li>
-<li class="fragment"><p><a href="http://ohi-science.org/data-science-training/github.html#setup-git-github" class="uri">http://ohi-science.org/data-science-training/github.html#setup-git-github</a></p></li>
-</ul></li>
-</ul></li>
-<li class="fragment"><p><a href="https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22">Tour of our workshop repository</a></p></li>
-</ul>
-</div>
-</section>
 <section id="discussion" class="slide level2">
 <h2>Discussion</h2>
 <ul>
-<li><p>What repeatable processes occur in your work?</p></li>
-<li><p>Do you have time-sensitive materials to distribute to stakeholders?</p>
+<li><p>What tools are people thinking they will build?</p></li>
+<li><p>What features are people hoping to incorporate?</p></li>
+</ul>
+<div class="footer">
+<p>[Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)</p>
+</div>
 <div class="footer">
 <p><a href="https://leahcrowe.github.io/Shiny_SMM22_workshop/">Home</a></p>
-</div></li>
-</ul>
+</div>
 
-
-<img src="SMM2022-Logo.png" class="slide-logo r-stretch"><div class="footer footer-default">
+<div class="footer footer-default">
 
 </div>
 </section>
@@ -500,7 +390,7 @@
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: 'c/t',
+        slideNumber: false,
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',

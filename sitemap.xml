@@ -1,35 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Apps_in_action-WhaleMap.html</loc>
-    <lastmod>2022-07-28T01:41:50.778Z</lastmod>
+    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Group_discussion-day1_pm.html</loc>
+    <lastmod>2022-07-29T15:54:08.551Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Apps_in_action-Simple_app.html</loc>
-    <lastmod>2022-07-28T01:41:52.094Z</lastmod>
+    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Deployment.html</loc>
+    <lastmod>2022-07-29T15:54:09.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Apps_in_action-WhaleMap.html</loc>
+    <lastmod>2022-07-29T15:54:10.255Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Overview_of_day.html</loc>
+    <lastmod>2022-07-29T15:54:10.659Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Shiny_skill_building.html</loc>
+    <lastmod>2022-07-29T15:54:11.003Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/index.html</loc>
-    <lastmod>2022-07-28T01:41:52.802Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Shiny_tours-Simple_app.html</loc>
-    <lastmod>2022-07-28T01:41:54.114Z</lastmod>
+    <lastmod>2022-07-29T15:54:11.776Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Shiny_tours-NERW.html</loc>
-    <lastmod>2022-07-28T01:41:54.362Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Group_discussion-pm1.html</loc>
-    <lastmod>2022-07-28T01:41:54.618Z</lastmod>
+    <lastmod>2022-07-29T15:54:12.140Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Overview_of_workshop.html</loc>
-    <lastmod>2022-07-28T01:41:54.914Z</lastmod>
+    <lastmod>2022-07-29T15:54:12.544Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Group_discussion-am1.html</loc>
-    <lastmod>2022-07-28T01:41:55.210Z</lastmod>
+    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Simplified_app.html</loc>
+    <lastmod>2022-07-29T15:54:12.872Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Group_discussion-day1_am.html</loc>
+    <lastmod>2022-07-29T15:54:13.196Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Intro_to_shiny.html</loc>
+    <lastmod>2022-07-29T15:54:13.488Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Shiny_tours-WhaleMap.html</loc>
+    <lastmod>2022-07-29T15:54:13.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Documenting.html</loc>
+    <lastmod>2022-07-29T15:54:14.108Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/leahcrowe/Shiny_SMM22_workshop/Group_discussion-day2_pm.html</loc>
+    <lastmod>2022-07-29T15:54:14.400Z</lastmod>
   </url>
 </urlset>

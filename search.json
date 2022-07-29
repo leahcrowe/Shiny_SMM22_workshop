@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "Group_discussion-day1_pm.html#discussion",
+    "href": "Group_discussion-day1_pm.html#discussion",
+    "title": "6. Group discussion - Day 1 afternoon",
+    "section": "Discussion",
+    "text": "Discussion\n\nHave any of your goals shifted from what you thought you wanted to tackle earlier this morning?\nAny new ideas on features you are hoping to incorporate?\nAny features we didn’t cover today that you were hoping to learn more about?"
+  },
+  {
+    "objectID": "Group_discussion-day1_pm.html#homework",
+    "href": "Group_discussion-day1_pm.html#homework",
+    "title": "6. Group discussion - Day 1 afternoon",
+    "section": "Homework",
+    "text": "Homework\n\nDon’t forget to bring your data (or you can use ours)\nSee you tomorrow at 0830!\n\n\nHome"
+  },
+  {
+    "objectID": "Deployment.html#local-deployment",
+    "href": "Deployment.html#local-deployment",
+    "title": "11. Deployment",
+    "section": "Local deployment",
+    "text": "Local deployment\n\n\nrunApp for RStudio\nlaunch from GitHub\n\nshiny::runGitHub(“your-repo-name”, username = “github-username”, ref = “branch”)"
+  },
+  {
+    "objectID": "Deployment.html#server-deployment",
+    "href": "Deployment.html#server-deployment",
+    "title": "11. Deployment",
+    "section": "Server deployment",
+    "text": "Server deployment\n\n\n‘Shiny’ servers\n\nFree and paid options\n\nshinyapps.io\nConsiderations of interaction with internal systems\n\n\ntalk to your IT department"
+  },
+  {
+    "objectID": "Deployment.html#other",
+    "href": "Deployment.html#other",
+    "title": "11. Deployment",
+    "section": "Other",
+    "text": "Other\n\n\nShiny apps can be as complicated or as simple as required\nMore interaction with your app necessitates more internal checks to be in place\nConsideration to who and how your app will be used\n\n\n\nHome"
+  },
+  {
     "objectID": "Apps_in_action-WhaleMap.html#quarto",
     "href": "Apps_in_action-WhaleMap.html#quarto",
     "title": "2b. Apps in action - WhaleMap",
@@ -14,53 +49,60 @@
     "text": "Bullets\nWhen you click the Render button a document will be generated that includes:\n\nContent authored with markdown\nOutput from executable code"
   },
   {
-    "objectID": "Apps_in_action-Simple_app.html#features-to-look-out-for",
-    "href": "Apps_in_action-Simple_app.html#features-to-look-out-for",
-    "title": "2c. Apps in action - Simple app",
-    "section": "Features to look out for",
-    "text": "Features to look out for\n\nDashboard layout\nRadio buttons\nText input\nAction buttons (enable/disable)\nTabs\nRHandsontable\nLeaflet Map\nDownload PDF"
+    "objectID": "Overview_of_day.html#welcome-to-day-2",
+    "href": "Overview_of_day.html#welcome-to-day-2",
+    "title": "7. Overview of the day",
+    "section": "Welcome to Day 2!",
+    "text": "Welcome to Day 2!\n\n\nMorning sessions 08:30–12:00 with a coffee break 10:00–10:30\nLunch 12:30–13:30\nAfternoon sessions 13:30–17:30 with a coffee break 15:00–15:30\nThe repository (aka ‘repo’) is our workshop landing page:\nhttps://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22"
   },
   {
-    "objectID": "Apps_in_action-Simple_app.html#run-the-app",
-    "href": "Apps_in_action-Simple_app.html#run-the-app",
-    "title": "2c. Apps in action - Simple app",
-    "section": "Run the app",
-    "text": "Run the app\nshiny::runGitHub(“READ-PSB-LWT-Shiny_SMM22”, username = “NEFSC”, ref = “master”)"
+    "objectID": "Overview_of_day.html#day-2-schedule",
+    "href": "Overview_of_day.html#day-2-schedule",
+    "title": "7. Overview of the day",
+    "section": "Day 2 Schedule",
+    "text": "Day 2 Schedule\n\n\n\n0830-0900: Overview and discussion\n0900-1030: Build shiny widget\n\n1000-1030: Coffee\n\n1030-1100: Check-in\n1100-1200: Continue with building widget or move on to a Demo\n\n1200-1330: Lunch\n\n1330-1400: Documentation\n1400-1500: Modify Simplified App\n\n1500-1530: Coffee\n\n1530-1600: Check-in on documentation and modification process\n1600-1630: Deployment\n1630-1730: Discussion"
+  },
+  {
+    "objectID": "Overview_of_day.html#discussion",
+    "href": "Overview_of_day.html#discussion",
+    "title": "7. Overview of the day",
+    "section": "Discussion",
+    "text": "Discussion\n\nWhat kind of data did people bring?\nWhat are your goals for your app?\n\nHome"
+  },
+  {
+    "objectID": "Shiny_skill_building.html#practice-creating-a-widget",
+    "href": "Shiny_skill_building.html#practice-creating-a-widget",
+    "title": "8. ‘Shiny’ skill building",
+    "section": "Practice creating a widget",
+    "text": "Practice creating a widget\n\nShiny widget gallery"
+  },
+  {
+    "objectID": "Shiny_skill_building.html#practice-creating-a-demo",
+    "href": "Shiny_skill_building.html#practice-creating-a-demo",
+    "title": "8. ‘Shiny’ skill building",
+    "section": "Practice creating a demo",
+    "text": "Practice creating a demo\n\nShiny demo gallery\n\n\nHome"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shiny tools for management rules: Using R and ‘shiny’ to streamline marine mammal conservation",
     "section": "",
-    "text": "For details on the workshop schedule, please check out the wiki located in our workshop repo"
+    "text": "For details on the workshop schedule, please check out the wiki located in our workshop repo\nCollaborative note-taking for participants"
   },
   {
-    "objectID": "Shiny_tours-Simple_app.html#the-code-structure",
-    "href": "Shiny_tours-Simple_app.html#the-code-structure",
-    "title": "5a. Shiny tours - Simple app",
+    "objectID": "Shiny_tours-NERW.html#shiny-features",
+    "href": "Shiny_tours-NERW.html#shiny-features",
+    "title": "5a. Shiny tours - NERW",
+    "section": "Shiny features",
+    "text": "Shiny features\n\nDashboard layout\nRadio buttons\nText input\nDate input\nAction buttons (enable/disable)\nTabs\nRHandsontable\nLeaflet Map\nDownload PDF"
+  },
+  {
+    "objectID": "Shiny_tours-NERW.html#the-code-structure",
+    "href": "Shiny_tours-NERW.html#the-code-structure",
+    "title": "5a. Shiny tours - NERW",
     "section": "The code structure",
-    "text": "The code structure\nApp.R: dashboard\n\nglobal_libraries.R\nexample_app.R: individual app run file\n\nexample_ui.R: user interface\nexample_server.R: nuts and bolts\n\nexample_report.Rmd: rmarkdown file rendered from the server file"
-  },
-  {
-    "objectID": "Shiny_tours-Simple_app.html#the-code",
-    "href": "Shiny_tours-Simple_app.html#the-code",
-    "title": "5a. Shiny tours - Simple app",
-    "section": "The code",
-    "text": "The code\nhttps://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22"
-  },
-  {
-    "objectID": "Group_discussion-pm1.html#discussion",
-    "href": "Group_discussion-pm1.html#discussion",
-    "title": "6. Group discussion - Day 1 afternoon",
-    "section": "Discussion",
-    "text": "Discussion\n\nHave any of your goals shifted from what you thought you wanted to tackle earlier this morning?\nAny new ideas on features you are hoping to incorporate?\nAny features we didn’t cover today that you were hoping to learn more about?"
-  },
-  {
-    "objectID": "Group_discussion-pm1.html#homework",
-    "href": "Group_discussion-pm1.html#homework",
-    "title": "6. Group discussion - Day 1 afternoon",
-    "section": "Homework",
-    "text": "Homework\n\nDon’t forget to bring your data (or you can use ours)\nSee you tomorrow at 0830!"
+    "text": "The code structure\nApp.R: dashboard\n\nglobal_libraries.R\napp.R files individual app run file\n\nui.R files: user interface\nserver.R files: nuts and bolts\n\nRmd files: rmarkdown file rendered from the server file\n\n\nGitHub\n\nHome"
   },
   {
     "objectID": "Overview_of_workshop.html#welcome",
@@ -70,11 +112,60 @@
     "text": "Welcome!\n\n\nWe are Leah & Hansen\nToday we learn, tomorrow we build\nMorning sessions 08:30–12:00 with a coffee break 10:00–10:30\nLunch 12:30–13:30\nAfternoon sessions 13:30–17:30 with a coffee break 15:00–15:30\nThe repository (aka ‘repo’) is our workshop landing page:\nhttps://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22"
   },
   {
-    "objectID": "Overview_of_workshop.html#you-all-the-shiny-happy-people",
-    "href": "Overview_of_workshop.html#you-all-the-shiny-happy-people",
+    "objectID": "Overview_of_workshop.html#day-1-schedule",
+    "href": "Overview_of_workshop.html#day-1-schedule",
     "title": "1. Overview of the workshop",
-    "section": "You all, the Shiny, happy people",
-    "text": "You all, the Shiny, happy people\n\n\nOnline and virtual from all over\nSummary of survey"
+    "section": "Day 1 Schedule",
+    "text": "Day 1 Schedule\n\n\n\n0830-0930: Overview and Welcome, end with discussion\n0930-1000: Apps in Action - NERW\n\n1000-1030: Coffee\n\n1030-1100: Apps in Action - NERW (continued)\n1100-1200: Apps in Action - WhaleMap\n\n1200-1330: Lunch\n\n1330-1400: Intro to Shiny\n1400-1500: Shiny tour - NERW\n\n1500-1530: Coffee\n\n1530-1630: Shiny tour - WhaleMap\n1630-1730: Discussion and Q&A"
+  },
+  {
+    "objectID": "Overview_of_workshop.html#summary-of-pre-workshop-survey",
+    "href": "Overview_of_workshop.html#summary-of-pre-workshop-survey",
+    "title": "1. Overview of the workshop",
+    "section": "Summary of pre-workshop survey",
+    "text": "Summary of pre-workshop survey\n\n\nAt least 17 folks online from the west coast of the US to central Europe\nA few of us in Florida"
+  },
+  {
+    "objectID": "Overview_of_workshop.html#summary-of-pre-workshop-survey-1",
+    "href": "Overview_of_workshop.html#summary-of-pre-workshop-survey-1",
+    "title": "1. Overview of the workshop",
+    "section": "Summary of pre-workshop survey",
+    "text": "Summary of pre-workshop survey"
+  },
+  {
+    "objectID": "Overview_of_workshop.html#summary-of-pre-workshop-survey-2",
+    "href": "Overview_of_workshop.html#summary-of-pre-workshop-survey-2",
+    "title": "1. Overview of the workshop",
+    "section": "Summary of pre-workshop survey",
+    "text": "Summary of pre-workshop survey"
+  },
+  {
+    "objectID": "Overview_of_workshop.html#summary-of-pre-workshop-survey-3",
+    "href": "Overview_of_workshop.html#summary-of-pre-workshop-survey-3",
+    "title": "1. Overview of the workshop",
+    "section": "Summary of pre-workshop survey",
+    "text": "Summary of pre-workshop survey"
+  },
+  {
+    "objectID": "Overview_of_workshop.html#summary-of-pre-workshop-survey-4",
+    "href": "Overview_of_workshop.html#summary-of-pre-workshop-survey-4",
+    "title": "1. Overview of the workshop",
+    "section": "Summary of pre-workshop survey",
+    "text": "Summary of pre-workshop survey"
+  },
+  {
+    "objectID": "Overview_of_workshop.html#we-dont-have-computer-science-training",
+    "href": "Overview_of_workshop.html#we-dont-have-computer-science-training",
+    "title": "1. Overview of the workshop",
+    "section": "We don’t have computer science training…",
+    "text": "We don’t have computer science training…\nBut we have figured it out with the help of these resources:\n\n\nRStudio resources\nGitHub\nStackoverflow\nGoogle\nWorkshops and webinars (e.g., Data Carpentry, Openscapes, etc.)\nOther people!\n\nR user group at NEFSC, grad student group at Dal, Twitter (Tidy Tuesdays, R ladies, etc.)"
+  },
+  {
+    "objectID": "Overview_of_workshop.html#foundation-of-all-data-analysis-is-good-data-management",
+    "href": "Overview_of_workshop.html#foundation-of-all-data-analysis-is-good-data-management",
+    "title": "1. Overview of the workshop",
+    "section": "Foundation of all data analysis is good data management",
+    "text": "Foundation of all data analysis is good data management\n\n\nConsistent data types and column names\n\nDate formatting\nQA/QC of sources of human error\n\nWrite code to encompass universal processes"
   },
   {
     "objectID": "Overview_of_workshop.html#github-and-our-workshop-repo",
@@ -88,13 +179,90 @@
     "href": "Overview_of_workshop.html#discussion",
     "title": "1. Overview of the workshop",
     "section": "Discussion",
-    "text": "Discussion\n\nWhat repeatable processes occur in your work?\nDo you have time-sensitive materials to distribute to stakeholders?"
+    "text": "Discussion\n\nWhat repeatable processes occur in your work?\nDo you have time-sensitive materials to distribute to stakeholders?\n\nHome"
   },
   {
-    "objectID": "Group_discussion-am1.html#discussion",
-    "href": "Group_discussion-am1.html#discussion",
+    "objectID": "Simplified_app.html#features-to-look-out-for",
+    "href": "Simplified_app.html#features-to-look-out-for",
+    "title": "9. Simplified App",
+    "section": "Features to look out for",
+    "text": "Features to look out for\n\nDashboard layout\nRadio buttons\nText input\nAction buttons (enable/disable)\nTabs\nRHandsontable\nLeaflet Map\nDownload PDF"
+  },
+  {
+    "objectID": "Simplified_app.html#run-the-app",
+    "href": "Simplified_app.html#run-the-app",
+    "title": "9. Simplified App",
+    "section": "Run the app",
+    "text": "Run the app\nshiny::runGitHub(“READ-PSB-LWT-Shiny_SMM22”, username = “NEFSC”, ref = “master”)"
+  },
+  {
+    "objectID": "Simplified_app.html#the-code-structure",
+    "href": "Simplified_app.html#the-code-structure",
+    "title": "9. Simplified App",
+    "section": "The code structure",
+    "text": "The code structure\nApp.R: dashboard\n\nglobal_libraries.R\nexample_app.R: individual app run file\n\nexample_ui.R: user interface\nexample_server.R: nuts and bolts\n\nexample_report.Rmd: rmarkdown file rendered from the server file"
+  },
+  {
+    "objectID": "Simplified_app.html#the-code",
+    "href": "Simplified_app.html#the-code",
+    "title": "9. Simplified App",
+    "section": "The code",
+    "text": "The code\nhttps://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22\n::: footer\n[Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)\n:::"
+  },
+  {
+    "objectID": "Group_discussion-day1_am.html#discussion",
+    "href": "Group_discussion-day1_am.html#discussion",
     "title": "3. Group discussion - Day 1 morning",
     "section": "Discussion",
-    "text": "Discussion\n\nWhat tools are people thinking they will build?\nWhat features are people hoping to incorporate?"
+    "text": "Discussion\n\nWhat tools are people thinking they will build?\nWhat features are people hoping to incorporate?\n\n\n[Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)\n\n\nHome"
+  },
+  {
+    "objectID": "Intro_to_shiny.html#intro-to-shiny-webinar",
+    "href": "Intro_to_shiny.html#intro-to-shiny-webinar",
+    "title": "4. Intro to ‘shiny’",
+    "section": "Intro to shiny webinar",
+    "text": "Intro to shiny webinar\nhttps://www.rstudio.com/resources/webinars/introduction-to-shiny/\nMany other great resources provided for free from RStudio:\n\nShiny widget gallery\n\n\n\nShiny demo gallery\n\nHome"
+  },
+  {
+    "objectID": "Shiny_tours-WhaleMap.html#shiny-features",
+    "href": "Shiny_tours-WhaleMap.html#shiny-features",
+    "title": "5b. Shiny tours - WhaleMap",
+    "section": "Shiny features",
+    "text": "Shiny features\n\nTabs\nRadio buttons\nDate input\nSlide input\nAction buttons\nPlots\nTable\nLeaflet Map"
+  },
+  {
+    "objectID": "Shiny_tours-WhaleMap.html#the-code-structure",
+    "href": "Shiny_tours-WhaleMap.html#the-code-structure",
+    "title": "5b. Shiny tours - WhaleMap",
+    "section": "The code structure",
+    "text": "The code structure\nGlobal.R\nui.R\nserver.R\nMakefile\nsrc files\nGitHub\n::: footer\n[Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)\n:::"
+  },
+  {
+    "objectID": "Documenting.html#using-github",
+    "href": "Documenting.html#using-github",
+    "title": "10. Documenting",
+    "section": "Using GitHub",
+    "text": "Using GitHub\n\n\nversion control (no more v1, final, final_FINAL, etc.)\nCan revert back to earlier times\nBack-up\nLog issues\nWiki and Readme files"
+  },
+  {
+    "objectID": "Documenting.html#comments",
+    "href": "Documenting.html#comments",
+    "title": "10. Documenting",
+    "section": "Comments",
+    "text": "Comments\n\n\nfor your future self and for others\nexplain what each line/process does"
+  },
+  {
+    "objectID": "Documenting.html#other",
+    "href": "Documenting.html#other",
+    "title": "10. Documenting",
+    "section": "Other",
+    "text": "Other\n\n\nDepending on the goals of your app, you may need to make a user guide so others can interact with it\nPublish app in journals"
+  },
+  {
+    "objectID": "Group_discussion-day2_pm.html#discussion",
+    "href": "Group_discussion-day2_pm.html#discussion",
+    "title": "12. Group discussion - Day 1 afternoon",
+    "section": "Discussion",
+    "text": "Discussion\n\nDo folks see Shiny and R as viable tools for the goals they set?\nNext steps and staying connected\n\n\nHome"
   }
 ]
