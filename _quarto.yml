@@ -16,26 +16,29 @@ website:
           - Overview_of_workshop.qmd #1
           - text: "2a. Apps in action-NERW" #2a
             href: Apps_in_action-NERW.pdf
-          #- Apps_in_action-WhaleMap.qmd #2b
-          - Apps_in_action-Simple_app.qmd #2c
-          - Group_discussion-am1.qmd #3
+          - text: "2b. Apps in Action-WhaleMap" #2b
+            href: Apps_in_action-WhaleMap.pdf 
+          - Group_discussion-day1_am.qmd #3
         #day 1pm
-          #- Intro to Shiny #4
-          - Shiny_tours-Simple_app.qmd #5a
-          - Shiny_tours-NERW.qmd #5b
-          #- Shiny_tours-WhaleMap #5c
-          - Group_discussion-pm1.qmd #6
+          - Intro_to_shiny.qmd #4
+          - Shiny_tours-NERW.qmd #5a
+          - Shiny_tours-WhaleMap.qmd #5b
+          - Group_discussion-day1_pm.qmd #6
+          
         #day 2am
-          - Overview_of_day.qmd
+          - Overview_of_day.qmd #7
+          - Shiny_skill_building.qmd #8
+          - Simplified_app.qmd #9
         #day 2pm
-          - Documenting.qmd
-          - Deployment.qmd
-          - Group_discussion-pm2.qmd
+          - Documenting.qmd #10
+          - Deployment.qmd #11
+          - Group_discussion-day2_pm.qmd #12
         
       - text: "Recordings"
         menu: 
           - text: "1. Overview of workshop"
-          - text: "2. Apps in action-NERW"
+          - text: "2a. Apps in action-NERW"
+          - text: "2b. Apps in action-WhaleMap"
 
 format:
   html:

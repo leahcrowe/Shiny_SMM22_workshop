@@ -7,6 +7,7 @@ On this website you will find slides and video materials associated with this So
 
 For details on the workshop schedule, please check out the [wiki](https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22/wiki) located in our [workshop repo](https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22)
 
+[Collaborative note-taking for participants](https://docs.google.com/document/d/147lg65o4wO6BxHQ6gKuMp5R-C7QvlQo3hAGSMB8mwwg/edit?usp=sharing)
 
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLF1SJy2msqA5YTDzxS4HM2hsSnvWwj8eJ0A&usqp=CAU)
