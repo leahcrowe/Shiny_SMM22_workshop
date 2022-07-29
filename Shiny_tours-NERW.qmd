@@ -1,5 +1,45 @@
 ---
-title: "5b. Shiny tours - NERW"
+title: "5a. Shiny tours - NERW"
 format: revealjs
 editor: visual
 ---
+
+## Shiny features
+
+-   Dashboard layout
+
+-   Radio buttons
+
+-   Text input
+
+-   Date input
+
+-   Action buttons (enable/disable)
+
+-   Tabs
+
+-   RHandsontable
+
+-   Leaflet Map
+
+-   Download PDF
+
+## The code structure
+
+[App.R]{.underline}: dashboard
+
+-   [global_libraries.R]{.underline}
+
+-   [app.R]{.underline} files individual app run file
+
+    -   [ui.R files]{.underline}: user interface
+
+    -   [server.R files]{.underline}: nuts and bolts
+
+        -   [Rmd files]{.underline}: rmarkdown file rendered from the server file
+
+-   [GitHub](https://github.com/NEFSC/READ-PSB-LWT-narwss_rwsas_apps)
+
+    ::: footer
+    [Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+    :::
