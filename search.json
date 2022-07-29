@@ -235,7 +235,7 @@
     "href": "Shiny_tours-WhaleMap.html#the-code-structure",
     "title": "5b. Shiny tours - WhaleMap",
     "section": "The code structure",
-    "text": "The code structure\nGlobal.R\nui.R\nserver.R\nMakefile\nsrc files\nGitHub\n::: footer\n[Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)\n:::"
+    "text": "The code structure\nGlobal.R\nui.R\nserver.R\nMakefile\nsrc files\nGitHub\n\nHome"
   },
   {
     "objectID": "Documenting.html#using-github",
