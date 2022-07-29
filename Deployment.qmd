@@ -1,0 +1,43 @@
+---
+title: "11. Deployment"
+format: revealjs
+editor: visual
+---
+
+## Local deployment
+
+::: incremental
+-   runApp for RStudio
+
+-   launch from GitHub
+
+    -   shiny::runGitHub("your-repo-name", username = "github-username", ref = "branch")
+:::
+
+## Server deployment
+
+::: incremental
+-   'Shiny' servers
+
+    -   [Free and paid options](https://www.rstudio.com/products/shiny/shiny-server/)
+
+        -   [shinyapps.io](https://www.shinyapps.io/)
+
+        -   Considerations of interaction with internal systems
+
+-   talk to your IT department
+:::
+
+## Other
+
+::: incremental
+-   Shiny apps can be as complicated or as simple as required
+
+-   More interaction with your app necessitates more internal checks to be in place
+
+-   Consideration to who and how your app will be used
+:::
+
+::: footer
+[Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+:::

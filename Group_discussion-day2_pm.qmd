@@ -1,0 +1,15 @@
+---
+title: "12. Group discussion - Day 1 afternoon"
+format: revealjs
+editor: visual
+---
+
+## Discussion
+
+-   Do folks see Shiny and R as viable tools for the goals they set?
+-   Next steps and staying connected 
+
+
+::: footer
+[Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+:::

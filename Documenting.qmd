@@ -1,0 +1,35 @@
+---
+title: "10. Documenting"
+format: revealjs
+editor: visual
+---
+
+## Using GitHub
+
+::: incremental
+-   version control (no more v1, final, final_FINAL, etc.)
+
+-   Can revert back to earlier times
+
+-   Back-up
+
+-   Log issues
+
+-   Wiki and Readme files
+:::
+
+## Comments
+
+::: incremental
+-   for your future self and for others
+
+-   explain what each line/process does
+:::
+
+## Other
+
+::: incremental
+-   Depending on the goals of your app, you may need to make a user guide so others can interact with it
+
+-   Publish app in journals
+:::

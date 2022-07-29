@@ -1,0 +1,20 @@
+---
+title: "8. 'Shiny' skill building"
+format: revealjs
+editor: visual
+---
+
+## Practice creating a widget
+
+-   [Shiny widget gallery](https://shiny.rstudio.com/gallery/widget-gallery.html)
+
+## Practice creating a demo
+
+-   [Shiny demo gallery](https://shiny.rstudio.com/gallery/#demos)
+
+
+::: footer
+
+[Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+
+:::

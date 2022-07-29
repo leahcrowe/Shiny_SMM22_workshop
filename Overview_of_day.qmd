@@ -1,0 +1,69 @@
+---
+title: "7. Overview of the day"
+format: 
+  revealjs:
+    theme: simple
+editor: visual
+execute:
+  freeze: auto
+slide-number: true
+logo: SMM2022-Logo.png
+---
+
+## Welcome to Day 2!
+
+::: incremental
+-   Morning sessions 08:30--12:00 with a coffee break 10:00--10:30
+
+-   Lunch 12:30--13:30
+
+-   Afternoon sessions 13:30--17:30 with a coffee break 15:00--15:30
+
+-   The repository (aka 'repo') is our workshop landing page:
+
+    <https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22>
+:::
+
+## Day 2 Schedule
+
+-   ::: {style="font-size: 0.8em"}
+    -   0830-0900: Overview and discussion
+
+    -   0900-1030: Build shiny widget
+
+    -   ::: {style="color: blue"}
+        1000-1030: Coffee
+        :::
+
+    -   1030-1100: Check-in
+
+    -   1100-1200: Continue with building widget or move on to a Demo
+
+    -   ::: {style="color: blue"}
+        1200-1330: Lunch
+        :::
+
+    -   1330-1400: Documentation
+
+    -   1400-1500: Modify Simplified App
+
+    -   ::: {style="color: blue"}
+        1500-1530: Coffee
+        :::
+
+    -   1530-1600: Check-in on documentation and modification process
+
+    -   1600-1630: Deployment
+
+    -   1630-1730: Discussion
+    :::
+
+## Discussion
+
+-   What kind of data did people bring?
+
+-   What are your goals for your app?
+
+    ::: footer
+    [Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+    :::

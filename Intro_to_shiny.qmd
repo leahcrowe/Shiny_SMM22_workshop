@@ -1,0 +1,21 @@
+---
+title: "4. Intro to 'shiny'"
+format: revealjs
+editor: visual
+---
+
+## Intro to shiny webinar
+
+<https://www.rstudio.com/resources/webinars/introduction-to-shiny/>
+
+Many other [great resources](https://www.rstudio.com/resources/webinars/) provided for free from RStudio:
+
+-   [Shiny widget gallery](https://shiny.rstudio.com/gallery/widget-gallery.html)
+
+<!-- -->
+
+-   [Shiny demo gallery](https://shiny.rstudio.com/gallery/#demos)
+
+    ::: footer
+    [Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+    :::

@@ -1,0 +1,41 @@
+---
+title: "5b. Shiny tours - WhaleMap"
+format: revealjs
+editor: visual
+---
+
+## Shiny features
+
+-   Tabs
+
+-   Radio buttons
+
+-   Date input
+
+-   Slide input
+
+-   Action buttons
+
+-   Plots
+
+-   Table
+
+-   Leaflet Map
+
+## The code structure
+
+Global.R
+
+ui.R
+
+server.R
+
+Makefile
+
+src files
+
+[GitHub](https://github.com/hansenjohnson/WhaleMap)
+
+    ::: footer
+    [Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+    :::

@@ -1,0 +1,49 @@
+---
+title: "9. Simplified App"
+format: revealjs
+editor: visual
+---
+
+## Features to look out for
+
+-   Dashboard layout
+
+-   Radio buttons
+
+-   Text input
+
+-   Action buttons (enable/disable)
+
+-   Tabs
+
+-   RHandsontable
+
+-   Leaflet Map
+
+-   Download PDF
+
+## Run the app
+
+shiny::runGitHub("READ-PSB-LWT-Shiny_SMM22", username = "NEFSC", ref = "master")
+
+## The code structure
+
+[App.R]{.underline}: dashboard
+
+-   [global_libraries.R]{.underline}
+
+-   [example_app.R]{.underline}: individual app run file
+
+    -   [example_ui.R]{.underline}: user interface
+
+    -   [example_server.R]{.underline}: nuts and bolts
+
+        -   [example_report.Rmd]{.underline}: rmarkdown file rendered from the server file
+
+## The code
+
+https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22
+
+    ::: footer
+    [Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+    :::
