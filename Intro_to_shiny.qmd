@@ -16,6 +16,8 @@ Many other [great resources](https://www.rstudio.com/resources/webinars/) provid
 
 -   [Shiny demo gallery](https://shiny.rstudio.com/gallery/#demos)
 
+-   [Leaflet](https://rstudio.github.io/leaflet/shiny.html)
+
     ::: footer
     [Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
     :::
