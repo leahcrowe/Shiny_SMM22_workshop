@@ -26,7 +26,7 @@ logo: SMM2022-Logo.png
 
 ## Day 2 Schedule
 
--   ::: {style="font-size: 0.8em"}
+-   ::: {style="font-size: 0.7em"}
     -   0830-0900: Overview and discussion
 
     -   0900-1030: Build shiny widget
