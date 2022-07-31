@@ -37,8 +37,15 @@ website:
       - text: "Recordings"
         menu: 
           - text: "1. Overview of workshop"
+            href: https://youtu.be/_KV6FNSGvaI
           - text: "2a. Apps in action-NERW"
+            href: https://youtu.be/wN_2-YtpQAY
           - text: "2b. Apps in action-WhaleMap"
+            href: https://youtu.be/7hWXi_UU_K0
+          - text: "5a. Shiny tours-NERW"
+            href: https://youtu.be/3JfL4f2tm9I
+          - text: "5b. Shiny tours-WhaleMap"
+            href: https://youtu.be/0ap0YN1gGxA
 
 format:
   html:
