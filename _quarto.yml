@@ -46,6 +46,14 @@ website:
             href: https://youtu.be/3JfL4f2tm9I
           - text: "5b. Shiny tours-WhaleMap"
             href: https://youtu.be/0ap0YN1gGxA
+          - text: "9. Simplified app"
+            href: https://youtu.be/KHexyVIk92s
+          - text: "10. Documenting"
+            href: https://youtu.be/8dbH8YaOtQA
+          - text: "11. Deployment"
+            href: https://youtu.be/oLURRdvojBY
+          - text: "12. Discussion"
+            href: https://youtu.be/vIvKjo9znz8
 
 format:
   html:
