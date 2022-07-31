@@ -10,6 +10,12 @@ editor: visual
 
 -   Any new ideas on features you are hoping to incorporate?
 
+    -   Many interests in Leaflet
+
+    -   In PDF/word/html report generation
+
+    -   Some interest in network analysis
+
 -   Any features we didn't cover today that you were hoping to learn more about?
 
 ## Homework

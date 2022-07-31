@@ -8,6 +8,12 @@ editor: visual
 
 -   What tools are people thinking they will build?
 
+    -   Tools to share data publicly
+
+    -   Tools to aid in data organization
+
+    -   Reproducible reports
+
 -   What features are people hoping to incorporate?
 
 ::: footer
