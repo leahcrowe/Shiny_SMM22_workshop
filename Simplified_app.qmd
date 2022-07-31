@@ -44,6 +44,6 @@ shiny::runGitHub("READ-PSB-LWT-Shiny_SMM22", username = "NEFSC", ref = "master")
 
 https://github.com/NEFSC/READ-PSB-LWT-Shiny_SMM22
 
-    ::: footer
-    [Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
-    :::
+::: footer
+[Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+:::
