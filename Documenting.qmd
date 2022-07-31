@@ -33,3 +33,7 @@ editor: visual
 
 -   Publish app in journals
 :::
+
+::: footer
+[Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
+:::
