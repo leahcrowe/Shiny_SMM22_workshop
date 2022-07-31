@@ -17,9 +17,5 @@ editor: visual
 -   What features are people hoping to incorporate?
 
 ::: footer
-\[Home\](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
-:::
-
-::: footer
 [Home](https://leahcrowe.github.io/Shiny_SMM22_workshop/)
 :::
